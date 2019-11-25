@@ -1,10 +1,10 @@
 # VM_OPCode
 
 
-This is TurboC 3.0/ DOS program utility created with concept of Virtual-Machine, and it runs based on commands being passed
-with each command instruction is in itself encrypted data for which gets decoded and stored and read back again.
+This is TurboC 3.0/ DOS program utility created with concept of Virtual-Machine. As it runs based on commands being passed
+with each command instruction, in itself is encrypted dataset from transcoders.
 
-The VM is like dynamic stack which keeps un/rolling with the kind of data being read from sources of kind : *.bin fles.
+The VMOPCode is like dynamic stack which keeps un/rolling with data being read from binary sources( files )   : *.bin fles.
 
 This file was used to run execute bianry code on virtual machine to decode sequence bytes, send across from transcoders. 
 These transcoders are effectively used for implementation into audio/ video libraries. Hence the code implementation contains 
